@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Daraz",
+    "rating": 4.5,
+    "description": "Daraz is the leading e-commerce platform in Bangladesh offering a wide range of products with great discounts.",
+    "brand_logo": "https://i.ibb.co.com/PGQgx5LV/Daraz-logo.png",
+    "coupons": [
+      {
+        "coupon-code": "DARAZ100",
+        "description": "Get 100 BDT off on your first purchase.",
+        "expiry-date": "2025-06-30",
+        "condition": "Minimum purchase of 1000 BDT required.",
+        "coupon_type": "Flat Discount"
+      },
+      {
+        "coupon-code": "DARAZ50",
+        "description": "Flat 50 BDT discount on all categories.",
+        "expiry-date": "2025-07-15",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "total_coupons": 2,
+    "shopLink": "https://www.daraz.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2",
+    "brand_name": "Foodpanda",
+    "rating": 4.3,
+    "description": "Foodpanda is a popular food delivery service with great discounts on top restaurants.",
+    "brand_logo": "https://i.ibb.co.com/jvKR50s7/Foodpanda-Bangladesh.png",
+    "coupons": [
+      {
+        "coupon-code": "FP100",
+        "description": "100 BDT off on orders above 500 BDT.",
+        "expiry-date": "2025-05-30",
+        "condition": "Valid only for new users.",
+        "coupon_type": "Percentage Discount"
+      },
+      {
+        "coupon-code": "PANDA30",
+        "description": "Get 30% discount on your first order.",
+        "expiry-date": "2025-06-10",
+        "condition": "Maximum discount 200 BDT.",
+        "coupon_type": "Percentage Discount"
+      }
+    ],
+    "total_coupons": 2,
+    "shopLink": "https://www.foodpanda.com.bd",
+    "category": "Food Delivery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3",
+    "brand_name": "Uber Eats",
+    "rating": 4.2,
+    "description": "Uber Eats offers convenient food delivery from a variety of restaurants.",
+    "brand_logo": "https://i.ibb.co.com/jvV7t1MN/Uber-Eats.jpg",
+    "coupons": [
+      {
+        "coupon-code": "UBEREATS20",
+        "description": "20% off on all orders.",
+        "expiry-date": "2025-08-01",
+        "condition": "Maximum discount 300 BDT.",
+        "coupon_type": "Percentage Discount"
+      }
+    ],
+    "total_coupons": 1,
+    "shopLink": "https://www.ubereats.com",
+    "category": "Food Delivery",
+    "isSaleOn": false
+  },
+  {
+    "_id": "4",
+    "brand_name": "Pickaboo",
+    "rating": 4.7,
+    "description": "Pickaboo is a leading online electronics retailer in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/kVXyRTjf/Pickaboo.png",
+    "coupons": [
+      {
+        "coupon-code": "PICKABOO10",
+        "description": "Flat 10% off on all smartphones.",
+        "expiry-date": "2025-09-01",
+        "condition": "Maximum discount 5000 BDT.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "total_coupons": 1,
+    "shopLink": "https://www.pickaboo.com",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5",
+    "brand_name": "AjkerDeal",
+    "rating": 4.1,
+    "description": "AjkerDeal is a discount e-commerce platform offering a wide range of products at lower prices.",
+    "brand_logo": "https://i.ibb.co.com/Z1FFpFbS/Ajker-Deal.png",
+    "coupons": [
+      {
+        "coupon-code": "AJKER50",
+        "description": "Get 50 BDT off on purchases above 500 BDT.",
+        "expiry-date": "2025-07-20",
+        "condition": "Valid for all users.",
+        "coupon_type": "Flat Discount"
+      }
+    ],
+    "total_coupons": 1,
+    "shopLink": "https://www.ajkerdeal.com",
+    "category": "E-commerce",
+    "isSaleOn": false
+  },
+  {
+    "_id": "6",
+    "brand_name": "Chaldal",
+    "rating": 4.6,
+    "description": "Chaldal is Bangladesh's leading online grocery shoping platform.",
+    "brand_logo": "https://i.ibb.co.com/39S8Ds47/chaldal.png",
+    "coupons": [
+      {
+        "coupon-code": "CHALDAL15",
+        "description": "15% discount on groceries.",
+        "expiry-date": "2025-06-25",
+        "condition": "Maximum discount 250 BDT.",
+        "coupon_type": "Percentage Discount"
+      }
+    ],
+    "total_coupons": 1,
+    "shopLink": "https://chaldal.com/",
+    "category": "Grocery",
+    "isSaleOn": true
+  }
+]
